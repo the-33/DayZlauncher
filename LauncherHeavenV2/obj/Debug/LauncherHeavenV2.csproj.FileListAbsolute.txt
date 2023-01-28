@@ -1,0 +1,15 @@
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\bin\Debug\LauncherHeavenV2.exe.config
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\bin\Debug\LauncherHeavenV2.exe
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\bin\Debug\LauncherHeavenV2.pdb
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.csproj.AssemblyReference.cache
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.Form1.resources
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.Properties.Resources.resources
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.csproj.GenerateResource.cache
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.csproj.CoreCompileInputs.cache
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.exe
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.pdb
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\bin\Debug\LauncherHeavenV2.exe.manifest
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\bin\Debug\LauncherHeavenV2.application
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.exe.manifest
+C:\Users\The.33\source\repos\LauncherHeavenV2\LauncherHeavenV2\obj\Debug\LauncherHeavenV2.application

@@ -1,0 +1,8 @@
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\bin\Debug\Actualizadorlauncher.exe.config
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\bin\Debug\Actualizadorlauncher.exe
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\bin\Debug\Actualizadorlauncher.pdb
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\obj\Debug\Actualizadorlauncher.csproj.AssemblyReference.cache
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\obj\Debug\Actualizadorlauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\obj\Debug\Actualizadorlauncher.csproj.CoreCompileInputs.cache
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\obj\Debug\Actualizadorlauncher.exe
+C:\Users\The.33\source\repos\Actualizadorlauncher\Actualizadorlauncher\obj\Debug\Actualizadorlauncher.pdb
